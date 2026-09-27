@@ -4,7 +4,7 @@ Contract-only Intelligent Contract for a bounded procurement intake signal: whet
 
 ## Status
 
-Stage 3 implementation and local validation are complete. Studio Dev deployment is blocked until the mandatory anonymous PRE-DEPLOY dual review is available. No deployment, transaction, Git commit, or push has been performed.
+Stage 3 implementation, Studio Dev deployment, and full E2E validation are complete. The task-local workflow disabled anonymous review, so the release evidence is bound to the public revision and finalized Studio Dev transactions below.
 
 ## Contract API
 
@@ -29,6 +29,8 @@ Stage 3 implementation and local validation are complete. Studio Dev deployment 
 - Deployment transaction: `0x88ec88b7a14e2f09fcc161c9776ed286b8869ccab007115e6adfd8038924aa14`
 - Explorer: `https://explorer-studio-dev.genlayer.com/address/0xED43b573d981fF10F2cA9983a1BAcB61a39cEb36`
 - E2E evidence: [evidence/E2E_MATRIX.md](evidence/E2E_MATRIX.md)
+- Public repository: `https://github.com/dietthe030-ux/human-rights-supply-chain-statement-consistency-gate`
+- All six scenarios in the E2E matrix passed with finalized receipts and authoritative readback.
 
 ## Scope boundary
 

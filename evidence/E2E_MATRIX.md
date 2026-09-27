@@ -9,4 +9,4 @@
 | S05 | Replay of identical assessment | idempotent | PASS — tx `0x64c9c64659504d66db62f87782dc7b5f97e72670d2cae8c8e6d86430ea9d05d8`; readback unchanged |
 | S06 | Supersession and readback | SUPERSEDED | PASS — finalized tx `0x852ac26466d22d30af0b284dd3c43067daa183200ccc6bc45bd6ba1f9c3b44e6`; readback `SUPERSEDED` |
 
-No transaction hash or Explorer URL is claimed before deployment.
+All hashes above are Studio Dev finalized transactions. Explorer: https://explorer-studio-dev.genlayer.com/address/0xED43b573d981fF10F2cA9983a1BAcB61a39cEb36
