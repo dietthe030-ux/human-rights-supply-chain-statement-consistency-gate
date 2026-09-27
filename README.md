@@ -22,6 +22,14 @@ Stage 3 implementation and local validation are complete. Studio Dev deployment 
 - GenVM lint/validation: passed with the pinned `py-genlayer` dependency and Studio Next toolchain.
 - Network readiness: Studio Dev, chain ID `61997`, canonical RPC `https://studio-dev.genlayer.com/api`.
 
+## Live deployment
+
+- Network: Studio Dev, chain ID `61997`
+- Contract: `0xED43b573d981fF10F2cA9983a1BAcB61a39cEb36`
+- Deployment transaction: `0x88ec88b7a14e2f09fcc161c9776ed286b8869ccab007115e6adfd8038924aa14`
+- Explorer: `https://explorer-studio-dev.genlayer.com/address/0xED43b573d981fF10F2cA9983a1BAcB61a39cEb36`
+- E2E evidence: [evidence/E2E_MATRIX.md](evidence/E2E_MATRIX.md)
+
 ## Scope boundary
 
 This repository is contract-only. No frontend, browser deployment, legacy network, MCP, or `E:\GenLayer` access is used.
